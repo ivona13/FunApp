@@ -1,0 +1,10 @@
+Moguća unaprjeđenja aplikacije:
+-> imlementirati opciju kojom se korisnici registriraju u sustav kako bi se pamtili njihovi rezultati
+-> implementirati igranje igrica u paru na različitim uređajima te međusobno natjecanje
+-> implementirati mogućnost povratka na određeno pitanje u kvizu: korisnik ne mora u istom trenutku odgovoriti na određeno pitanje
+-> implementirati razine igara na način da se viša razina može postići jedino nakon osvojenog određenog broja bodova
+-> implementirati postojanje hintova za svako od pitanja - korisnik bi klikom na određeni element dobio određenu pomoć u vezi trenutnog pitanja
+-> implementirati razine u igrici anagrama na način da niže razine sadrže riječi s manjim brojem slova, a više razine kompliciranije riječi
+-> implemenirati mogućnost otkrivanja prvog slova premetnute riječi anagrama - u tom slučaju korisnik će osvojiti manji broj bodova
+-> dodati više igara u aplikaciju
+
