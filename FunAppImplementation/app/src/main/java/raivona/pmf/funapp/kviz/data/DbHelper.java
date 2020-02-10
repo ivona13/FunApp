@@ -118,8 +118,7 @@ public class DbHelper extends SQLiteOpenHelper {
         return questions;
     }
 
-    public int rowCount()
-    {
+    public int rowCount() {
         int rows = 0;
         SQLiteDatabase db = this.getWritableDatabase();
         Cursor cursor = db.rawQuery(SELECT_QUERY, null);
