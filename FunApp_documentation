@@ -1,10 +1,31 @@
 Dokumentacija aplikacije:
 
+FunApp aplikacija pisana je u programskom jeziku Java koristeći IDE Android Studio. Aplikacija se testirala pokretanjem na Android Emulatoru.
+
 FunApp aplikacija predstavlja aplikaciju čiji je osnovni cilj zabaviti korisnika te omogućiti tu igranje nekih klasičnih igara ili kviza.
 
 Po pokretanju aplikacije, na zaslonu se prikazuje naziv aplikacije i izbor mogućih igara.
-Prva igra je tradicionalna Iks-oks igra. Ona je predviđenja za igranje dvojice igrača. Odabirom te igre, korisniku se na zaslonu prikazuje rezultat do tada odigranih igara. Na zaslonu se prikazuje 3*3 ploča na koju se klikom na pojedino polje postavlja znak X, odnosno O (ovisno koji igrač je na redu). U slučaju pobjede bilo kojeg od igrača, rezultat se osvježava i ponovno postavlja te iskače poruka o pobjedniku. U slučaju da niti jedan od korisnika nije odnio pobjedu, na zaslonu se prikaže kratka poruka o neriješenosti igre. Na zaslonu se nalazi i gumb *reset* koji služi za resetiranje rezultata, odnosno obračun kreće ispočetka. Također, u gornjem lijevom kutu nalazi se strelica lijevo koja za ulogu ima povratak na početnu stranu aplikacije s izborom igara.
+Prva igra je tradicionalna Iks-oks igra. Ona je predviđenja za igranje dvojice igrača. 
+Odabirom te igre, korisniku se na zaslonu prikazuje rezultat do tada odigranih igara. 
+Na zaslonu se prikazuje 3*3 ploča na koju se klikom na pojedino polje postavlja znak X, odnosno O (ovisno koji igrač je na redu). 
+U slučaju pobjede bilo kojeg od igrača, rezultat se osvježava i ponovno postavlja te iskače poruka o pobjedniku. 
+U slučaju da niti jedan od korisnika nije odnio pobjedu, na zaslonu se prikaže kratka poruka o neriješenosti igre. 
+Na zaslonu se nalazi i gumb *reset* koji služi za resetiranje rezultata, odnosno obračun kreće ispočetka. 
+Također, u gornjem lijevom kutu nalazi se strelica lijevo koja za ulogu ima povratak na početnu stranu aplikacije s izborom igara.
 
-Druga igra FunApp aplikacije je klasični kviz koji ispituje matematičko znanje korisnika. Za svako od pitanja korisnik dobije ponuđena tri odgovora od kojih je samo jedan točan. Odabirom i klikom na jedan od ogovora, korisnik dobije kratku poruku o točnosti njegova odgovora, ali mu se točnost signalizira crvenom i zelenom bojom na sljedeći način: ako je odabrani odgovor točan, on će se obojiti zelenom bojom, a u slučaju netočna odgovora, polje se oboji crvenom bojom. Kada se dođe do kraja kviza, korisnik dobije izvještaj o svojem uspjehu. Pojave se i dva gumba, gdje jedan gumb služi za ponovno pokretanje igre, a drugi gumb za povratak na naslovnicu aplikacije.
+Druga igra FunApp aplikacije je klasični kviz koji ispituje matematičko znanje korisnika. 
+Za svako od pitanja korisnik dobije ponuđena tri odgovora od kojih je samo jedan točan. 
+Odabirom i klikom na jedan od ogovora, korisnik dobije kratku poruku o točnosti njegova odgovora, ali mu se točnost signalizira crvenom i zelenom bojom na sljedeći način: 
+ako je odabrani odgovor točan, on će se obojiti zelenom bojom, a u slučaju netočna odgovora, polje se oboji crvenom bojom. 
+Kada se dođe do kraja kviza, korisnik dobije izvještaj o svojem uspjehu. 
+Pojave se i dva gumba, gdje jedan gumb služi za ponovno pokretanje igre, a drugi gumb za povratak na naslovnicu aplikacije.
 
-Treća igra FunApp aplikacije je igra anagrama. Klikom na tu igru, korisniku se prikaže kratka uputa o tome što treba činiti te gumb *start* kojim se započinje igra. Potom se korisniku prikaže anagram i polje za unos riječi dobivene premetanjem. Kada korisnik unese riječ i siguran je u svoj odgovor, pritisne gumb za provjeru. Pritiskom na gumb korisnik dobije povratnu informaciju o točnosti svojeg odgovora. Kada je korisnik spreman za sljedeću riječ, pritisne strelicu udesno i prikaže se nova riječ. U gornjem lijevom kutu stoji strelica ulijevo kojom se korisnik vraća na početnu stranu aplikacije. Nakon odrađenog seta riječi, korisnik dobije povratnu informaciju o tome koliko riječi je uspješno premetnuo. Moguće je ponovno početi igrati igru. 
+Treća igra FunApp aplikacije je igra anagrama. 
+Klikom na tu igru, korisniku se prikaže kratka uputa o tome što treba činiti te gumb *start* kojim se započinje igra. 
+Potom se korisniku prikaže anagram i polje za unos riječi dobivene premetanjem. 
+Kada korisnik unese riječ i siguran je u svoj odgovor, pritisne gumb za provjeru. 
+Pritiskom na gumb korisnik dobije povratnu informaciju o točnosti svojeg odgovora. 
+Kada je korisnik spreman za sljedeću riječ, pritisne strelicu udesno i prikaže se nova riječ. 
+U gornjem lijevom kutu stoji strelica ulijevo kojom se korisnik vraća na početnu stranu aplikacije. 
+Nakon odrađenog seta riječi, korisnik dobije povratnu informaciju o tome koliko riječi je uspješno premetnuo. 
+Moguće je ponovno početi igrati igru. 
